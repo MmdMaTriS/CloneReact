@@ -1,7 +1,7 @@
 {
   "name": "clone-react",
   "version": "1.0.0",
-  "description": "Clone of react to \"better understand the performance of react\"",
+  "description": "Clone of react to \"better understand the performance of react\" you can use from unpkg src to add resource on your file \n https://unpkg.com/clone-react@1.0.0/src/MyReact.js \n https://unpkg.com/clone-react@1.0.0/src/MyReactDOM.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
