@@ -1,6 +1,6 @@
 {
   "name": "clone-react",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Clone of react to \"better understand the performance of react\" you can use from unpkg src to add resource on your file \n https://unpkg.com/clone-react@1.0.0/src/MyReact.js \n https://unpkg.com/clone-react@1.0.0/src/MyReactDOM.js",
   "main": "index.js",
   "scripts": {

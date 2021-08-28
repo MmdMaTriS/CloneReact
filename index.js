@@ -3,23 +3,24 @@
 elementSaz("type",{
     style : { 
         color: "red",
-        className: "class",
-        childern: ["Hello World"]
-    }
-     "Hello World"
-})
+    },
+    className : "someClass",
+    props: "key",
+    childern: ["Hello Clone-React"],
+});
 
 OR
 
 elementSaz("type",{
     style : { 
         color: "red",
-        className: "class",
-    }
-     "Hello World"
-})
+    },
+    className: "class",
+    props: "key",
+},
+    "Hello Clone-React");
 */
-const root = MyReact.elementSaz("h1",{},"Hello CloneOfReact");
+const root = MyReact.elementSaz("h1",{},"Hello Clone-React");
 
 /* 
     Attach to root Page with "MyReactDom.render(element, yourPageLocation)"
